@@ -17,6 +17,8 @@ More info can be found here:
 
 Operation Manual
 
+** Please use your own path instead of <...>, and "/path/to/..." ***
+
 1. Before you start to convert files, make sure you have set up a c++ 11, and can run the code under Geant4 4.10+.
   source <Path_to_ExternalLib>/gcc/<version>/x86_64-centos7/setup.sh
   source <Geant4_Install_Dir>/bin/geant4.sh
