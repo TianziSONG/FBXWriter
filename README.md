@@ -3,7 +3,7 @@
 This is originally from Belle II Geometry exporters.
 
 #################################################
-**Belle II Geometry exporters**
+# Belle II Geometry exporters
 
 Here you can find the geometry exporters written to export the Belle II geometry.
 
