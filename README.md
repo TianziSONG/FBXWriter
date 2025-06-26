@@ -15,7 +15,7 @@ More info can be found here:
  * https://docs.belle2.org/record/1036/files/BELLE2-POSTER-CONF-2018-007.pdf
 #################################################
 
-Operation Manual
+**Operation Manual**
 
 ** Please use your own path instead of <...>, and "/path/to/..." ***
 
